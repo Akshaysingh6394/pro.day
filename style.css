@@ -1,0 +1,26 @@
+body{
+    font-family:"Arial",sans-serif;
+    background-color: #f4f4f4;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    font-size: 24px;
+}
+
+#countdown{
+    font-size:36px;
+    margin: 20px;
+}
+
+#proposalMessage{
+    font-size: 24px;
+    margin-top: 20px;
+    color: #ff5733;
+    display: none;
+}
